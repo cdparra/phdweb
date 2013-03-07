@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:BDF6B589-F698-4303-A072-107E16D86A05</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-05-04T14:55:45+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+
+ <entry>
+  <id>urn:iweb:2AF2C860-3D4A-450B-ABC8-C087D9DB8953</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">2AF2C860-3D4A-450B-ABC8-C087D9DB8953</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2010-04-29T14:55:45.001+02:00</updated>
+  <content>Home</content>
+ </entry>
+
+ <entry>
+  <id>urn:iweb:4D4154D8-F93F-4648-9DB7-F2A6608F34CA</id>
+  <title>CV</title>
+  <title xmlns="urn:iweb:">CV</title>
+  <in-navbar xmlns="urn:iweb:">4D4154D8-F93F-4648-9DB7-F2A6608F34CA</in-navbar>
+  <link rel="alternate" href="CV.html"/>
+  <updated>2010-04-29T14:55:45.002+02:00</updated>
+  <content>CV</content>
+ </entry>
+
+ <entry>
+  <id>urn:iweb:4D4154D8-F93F-4648-9DB7-F2A6608F34CX</id>
+  <title>BLOG</title>
+  <title xmlns="urn:iweb:">BLOG</title>
+  <in-navbar xmlns="urn:iweb:">4D4154D8-F93F-4648-9DB7-F2A6608F34CX</in-navbar>
+  <link rel="alternate" href="http://disi.unitn.it/~parra/blog/"/>
+  <updated>2010-04-29T14:55:45.002+02:00</updated>
+  <content>BLOG</content>
+ </entry>
+
+ <entry>
+  <id>urn:iweb:4D4154D9-F93G-4649-9DB8-F2A6608F34CY</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">4D4154D9-F93G-4649-9DB8-F2A6608F34CY</in-navbar>
+  <link rel="alternate" href="pub.html"/>
+  <updated>2010-05-04T14:55:45.002+02:00</updated>
+  <content>Publications</content>
+ </entry>
+</feed>
